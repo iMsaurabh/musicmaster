@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/drummaster/static/css/main.a205e96d.chunk.css",
+    "main.js": "/drummaster/static/js/main.99049db2.chunk.js",
+    "main.js.map": "/drummaster/static/js/main.99049db2.chunk.js.map",
+    "runtime-main.js": "/drummaster/static/js/runtime-main.4ef947b8.js",
+    "runtime-main.js.map": "/drummaster/static/js/runtime-main.4ef947b8.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/drummaster/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.de023886.chunk.js": "/drummaster/static/js/2.de023886.chunk.js",
+    "static/js/2.de023886.chunk.js.map": "/drummaster/static/js/2.de023886.chunk.js.map",
+    "static/js/3.ea78d5f4.chunk.js": "/drummaster/static/js/3.ea78d5f4.chunk.js",
+    "static/js/3.ea78d5f4.chunk.js.map": "/drummaster/static/js/3.ea78d5f4.chunk.js.map",
+    "index.html": "/drummaster/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/drummaster/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.a205e96d.chunk.css.map": "/drummaster/static/css/main.a205e96d.chunk.css.map",
+    "static/js/2.de023886.chunk.js.LICENSE.txt": "/drummaster/static/js/2.de023886.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ef947b8.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.de023886.chunk.js",
+    "static/css/main.a205e96d.chunk.css",
+    "static/js/main.99049db2.chunk.js"
+  ]
+}
